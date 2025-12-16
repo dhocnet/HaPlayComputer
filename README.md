@@ -72,7 +72,7 @@ Sedangkan untuk produk yang dirancang khusus untuk penulis, atau yang lebih dike
 
 HaPlay Computer dibangun dari diagram dasar model GO Zero 1 yang bisa kalian lihat di:
 
-* [Repositori HaPlay GO Zero 1](/dhocnet/haplay-go-zero-1)
+* [Repositori HaPlay GO Zero 1](https://github.com/dhocnet/haplay-go-zero-1)
 
 Dalam repositori HaPlay GO Zero 1 tersebut kalian bisa melihat betapa sederhananya HaPlay Comuter dirancang namun tetap dapat menghasilkan produk yang produktif. Kalian bisa membuatnya sendiri dirumah namun ingat, selalu konsultasikan dan minta orang yang lebih berpengalaman untuk mendampingi terutama jika kalian masih baru di lingkungan modding smartphone.
 
