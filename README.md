@@ -13,8 +13,8 @@ Jalur upcycle diplih karena kebanyakan perangkat sudah tidak relevan lagi untuk 
 Materi yang bisa diajarkan menggunakan HaPlay Computer sangat beragam. Diantaranya adalah:
 
 **Materi Perkantoran & Menulis**
-| --- | --- |
 | Program | Lingkungan |
+| --- | --- |
 | Libre Office | Tiny Computer/ PostmarketOS/ ARMBian |
 | WPS Office | Tiny Computer/ ARMBian |
 | Lynx | Tiny Computer/ PostmarketOS/ ARMBian |
@@ -23,8 +23,8 @@ Materi yang bisa diajarkan menggunakan HaPlay Computer sangat beragam. Diantaran
 | MarkDown | Android/ Postmarket OS/ ARMBian |
 
 **Materi Disain Grafis**
-| --- | --- |
 | Program | Lingkungan |
+| --- | --- |
 | GIMP | Termux/ Postmarket OS/ ARMBian |
 | Inkscape | Termux/ Postmarket OS/ ARMBian |
 | Scribus | Proot-Distro/ Postmarket OS/ ARMBian/ Tiny Computer |
@@ -34,8 +34,8 @@ Materi yang bisa diajarkan menggunakan HaPlay Computer sangat beragam. Diantaran
 
 
 **Materi Sistem Operasi**
-| --- | --- |
 | Sistem Operasi | Lingkungan |
+| --- | --- |
 | Debian Linux | Proot-Distro/ Tiny Computer/ ARMBian |
 | Ubuntu Linux | Proot-Distro |
 | Fedora Linux | Proot-Distro |
@@ -44,8 +44,8 @@ Materi yang bisa diajarkan menggunakan HaPlay Computer sangat beragam. Diantaran
 | Deepin Linux | Proot-Distro |
 
 **Materi Pemrograman**
-| --- | --- |
 | Bahasa | Lingkungan |
+| --- | --- |
 | Pemrograman web (HTML, CSS, JavaScript, PHP, MariaDB) | Termux/ Postmarket OS/ ARMBian |
 | Scripting (Bash, Python, Perl, Lua, NodeJS, Lisp) | Termux/ Postmarket OS/ ARMBian |
 | C/C++ | Termux/ Postmarket OS/ ARMBian |
@@ -55,8 +55,8 @@ Materi yang bisa diajarkan menggunakan HaPlay Computer sangat beragam. Diantaran
 | Cobol | Termux/ Postmarket OS/ ARMBian |
 
 **Materi Jaringan Komputer**
-| --- | --- |
 | Materi | Lingkungan |
+| --- | --- |
 | Local Area Network | Postmarket OS/ ARMBian/ Android (root) |
 | Firewall/ QOS/ NAT | Postmarket OS/ ARMBian/ Android (root) |
 | Proxy Server | Postmarket OS/ ARMBian/ Android |
