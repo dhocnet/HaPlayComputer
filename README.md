@@ -2,7 +2,7 @@
 
 *Assalamualaikum*.
 
-`Selamat datang di repositori [HaPlay Computer](https://haplaycomputer.com)!`
+### Selamat datang di repositori [HaPlay Computer](https://haplaycomputer.com)!
 
 HaPlay Computer adalah salah satu wujud nyata dari gerakan **2RU** -- *Reuse, Repair & Upcycle* -- yang memanfaatkan perangkat elektronik konsumen yang telah ditinggalkan menjadi alat dengan fungsi baru. Dan pada kasus ini, elektronik konsumen tersebut adalah smartphone dan STB (*Set-up Box*).
 
@@ -12,7 +12,7 @@ Jalur upcycle diplih karena kebanyakan perangkat sudah tidak relevan lagi untuk 
 
 Materi yang bisa diajarkan menggunakan HaPlay Computer sangat beragam. Diantaranya adalah:
 
-**Materi Perkantoran & Menulis**
+## Materi Perkantoran & Menulis
 | Program | Lingkungan |
 | --- | --- |
 | Libre Office | Tiny Computer/ PostmarketOS/ ARMBian |
@@ -22,7 +22,7 @@ Materi yang bisa diajarkan menggunakan HaPlay Computer sangat beragam. Diantaran
 | Latex | Termux/ PostmarketOS/ ARMBian |
 | MarkDown | Android/ Postmarket OS/ ARMBian |
 
-**Materi Disain Grafis**
+## Materi Disain Grafis
 | Program | Lingkungan |
 | --- | --- |
 | GIMP | Termux/ Postmarket OS/ ARMBian |
@@ -33,7 +33,7 @@ Materi yang bisa diajarkan menggunakan HaPlay Computer sangat beragam. Diantaran
 | FreeCAD | Proot-Distro/ ARMBian/ Tiny Computer |
 
 
-**Materi Sistem Operasi**
+## Materi Sistem Operasi
 | Sistem Operasi | Lingkungan |
 | --- | --- |
 | Debian Linux | Proot-Distro/ Tiny Computer/ ARMBian |
@@ -43,7 +43,7 @@ Materi yang bisa diajarkan menggunakan HaPlay Computer sangat beragam. Diantaran
 | Alpine Linux | Proot-Distro/ Postmarket OS |
 | Deepin Linux | Proot-Distro |
 
-**Materi Pemrograman**
+## Materi Pemrograman
 | Bahasa | Lingkungan |
 | --- | --- |
 | Pemrograman web (HTML, CSS, JavaScript, PHP, MariaDB) | Termux/ Postmarket OS/ ARMBian |
@@ -54,7 +54,7 @@ Materi yang bisa diajarkan menggunakan HaPlay Computer sangat beragam. Diantaran
 | Assembly | Termux/ Postmarket OS/ ARMBian |
 | Cobol | Termux/ Postmarket OS/ ARMBian |
 
-**Materi Jaringan Komputer**
+## Materi Jaringan Komputer
 | Materi | Lingkungan |
 | --- | --- |
 | Local Area Network | Postmarket OS/ ARMBian/ Android (root) |
